@@ -1,6 +1,6 @@
 # PracticasJavaScript-Procesos-
 # Practicas JavaScript V.1.
 
-#it add --all
-#it commit -m "primera version"
-#it push
+#git add --all
+#git commit -m "primera version"
+#git push
